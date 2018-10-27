@@ -1,0 +1,194 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-bar {
+  display: flex;
+  height: 157px;
+  margin: 0px;
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  justify-content: space-between;
+  margin-top: -157px;
+}
+#logo {
+  padding: 40px;
+  height: 77px;
+  width: 333px;
+}
+.nav-bar-items-list {
+  list-style: none;
+  display: flex;
+  font-family: Montserrat;
+  font-size: 23px;
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.9px;
+  color: #262016;
+  margin: 0;
+}
+.nav-bar-items:hover{
+  color: #99cb33;
+}
+.nav-bar-items {
+  margin-top: 65px;
+  margin-right: 98px;
+  
+}
+
+body {
+  margin: 0px;
+}
+
+
+.header {
+  margin-top: 157px;
+  background-position: center;
+  height: 867px;
+  width: 100%;
+  background-image: url("./images/header-background.png");
+  background-size: cover;
+  background-repeat: no-repeat
+}
+
+.header-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  padding-top: 20%;
+  justify-content: flex-end;
+  margin-left: 60%;
+}
+
+.For-you-Matcha-Love {
+  width: 516px;
+  height: 166px;
+  font-family: Montserrat;
+  font-size: 64px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.16;
+  letter-spacing: 1.9px;
+  color: #99cb33;
+  margin: 0;
+}
+.For-you-Matcha-Love .text-style-1 {
+  color: #262016;
+  margin: 0;
+}
+
+.Bringing-authentic-J {
+  width: 481px;
+  height: 86px;
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 1.1px;
+  color: #524533;
+  margin: 0;
+}
+
+.Rectangle-2 {
+  width: 348px;
+  height: 56px;
+  border-radius: 5px;
+  border: solid 1px #99cb33;
+  background-color: #99cb33;
+  margin-top: 20px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.GET-A-SAMPLE {
+  width: 195px;
+  height: 29px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.7px;
+  color: #ffffff;
+  margin: 0px;
+}
+
+.GET-A-SAMPLE:hover {
+color: #262016;
+}
+
+.Group-17 {
+  width: 466px;
+  height: 456px;
+  object-fit: contain;
+}
+.Matcha-is-the-ultima {
+  width: 442px;
+  height: 291px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  color: #524533;
+}
+
+.ABOUT {
+  width: 170px;
+  height: 74px;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.06;
+  letter-spacing: 8.4px;
+  color: #524533;
+}
+
+.Group-18 {
+  width: 462px;
+  height: 454px;
+  object-fit: contain;
+}
+
+.BENEFITS {
+  width: 244px;
+  height: 74px;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.06;
+  letter-spacing: 8.4px;
+  color: #524533;
+}
+.Anti-oxidant-Boost-c {
+  width: 464px;
+  height: 205px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  color: #524533;
+}
+
+.Group-16 {
+  width: 1440px;
+  height: 498px;
+  object-fit: contain;
+}
